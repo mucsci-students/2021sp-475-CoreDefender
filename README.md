@@ -36,28 +36,61 @@ Fortunately, you have tools at your disposal to help fight back against the viru
 I know he doesn't look very happy to be here, but I assure you that his level of artificial intelligence is too low to feel happiness, so don't worry! Equipped with only a basic launcher, this tower is the cheapest of the bunch. Don't let his low price fool you, however, he can still dish out some solid damage.
 
 
-### Shock Tower
+#### Shock Tower
 
 ![Shock Tower Image](/Assets/Art/ShockTower.png)
 
 Inspired by everyone's favorite pigeon-obsessed father of electrical current, the shock tower constantly emits a cloud of electricity that damages viruses that are within its short range. 
 
 
-### Sniper Tower
+#### Sniper Tower
 
 ![Sniper Tower Image](/Assets/Art/SniperTowerRight.png)
 
 Sniper towers hit hard and have incredible range all at the cost of firing much more slowly than other towers. A worthy investment, the sniper tower has been involved in numerous secret raids on Al-Qaeda and has over 300 confirmed kills.
 
 
-### Shotgun Tower
+#### Shotgun Tower
 
 ![Shotgun Tower Image](/Assets/Art/AOETower.png)
 
 This tower shoots a blast of projectiles that spread out in a small cone at enemies. While capable of dealing massive damage to enemies at close range if all projectiles hit, any projectiles that miss could possibly hit another enemy instead.
 
-### Support Tower
+#### Support Tower
 
 ![Support Tower Image](/Assets/Art/SupportTower.png)
 
 While not dealing any damage itself, this tower buffs the damage of any towers it is next to. Sometimes even towers need a little support (especially that basic tower, look at how grumpy he is).
+
+
+
+### Core Abilities
+
+#### Freeze 
+
+![Freeze Ability Icon](/Assets/Art/Snowflake.png)
+
+Use this ability to suspend any virus processes for a few seconds, allowing your towers to easily fire on unmoving targets! 
+
+
+#### Laser
+
+![Laser Ability Icon](/Assets/Art/Laser.png)
+
+Tired of waiting for your towers to do all the work? Well, now you can fight back yourself! This ability allows you to deal damage directly wherever you click while it is active. Watch out though, it'll drain your money while active, so don't forget to turn it off! 
+
+
+#### McAfee Defender
+
+![McAfee Ability Icon](/Assets/Art/Macafee.png)
+
+Powerful Device And Software Protection Starting at $19.99. Learn More & Get Started Today. Download McAfee® Instantly & Get Complete Protection For All Your Devices. Download Now!
+
+While active, this ability halves all incoming damage to the core, but drains your money over time (so don't forget to turn it off).
+
+
+#### Reboot
+
+![Reboot Ability Icon](/Assets/Art/Reboot1.png)
+
+The ultimate ability: completely reboot the system, removing all enemies from the map. Be warned that this ability will not work on bosses!
