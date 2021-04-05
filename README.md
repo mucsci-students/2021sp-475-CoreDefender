@@ -91,6 +91,6 @@ While active, this ability halves all incoming damage to the core, but drains yo
 
 #### Reboot
 
-![Reboot Ability Icon](/Assets/Art/Reboot1.png)
+![Reboot Ability Icon](</Assets/Art/Reboot 1.png>)
 
 The ultimate ability: completely reboot the system, removing all enemies from the map. Be warned that this ability will not work on bosses!
