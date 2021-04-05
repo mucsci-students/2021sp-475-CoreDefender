@@ -94,3 +94,32 @@ While active, this ability halves all incoming damage to the core, but drains yo
 ![Reboot Ability Icon](</Assets/Art/Reboot 1.png>)
 
 The ultimate ability: completely reboot the system, removing all enemies from the map. Be warned that this ability will not work on bosses!
+
+
+
+### Enemies
+
+#### Common Viruses
+
+![Blue Virus](</Assets/Art/Basic Viruses/Virus 1-1.png>)
+
+The most basic form of virus, these guys tend to be slow and weak. But don't be fooled, in a large group they'll hit you pretty hard. Comes in both blue and red variants, the latter of which is slightly stronger.
+
+
+#### ILOVEYOU
+
+![ILOVEYOU Virus](</Assets/Art/I Love You Virus/iloveyou 1.png>)
+
+Inspired by a [real computer worm](https://en.wikipedia.org/wiki/ILOVEYOU) from the early 2000's, you'll likely hate these love-filled bugs. Starting off slow, ILOVEYOU viruses get slightly faster the more damage they take.
+
+#### Munchers
+
+![Muncher Virus](</Assets/Art/OrangeCreep.png/1.png>)
+
+An elite virus, you'd better do your best to make sure these guys don't damage the core. Mucher viruses are faster and stronger than regular viruses.
+
+#### The Dreaded Purple Virus
+
+![Purple Virus](</Assets/Art/Purple Creep/CreepStage1.png>)
+
+The most dangerous virus in Core Defender. Slow and tanky, the purple virus will take a lot of hits to take down. If you can defeat the purple viruses, you should consider yourself a master core defender!
