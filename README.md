@@ -12,8 +12,13 @@
 
 ### Mac
 1. On the Core Defender Github page, click on the latest release under "Releases" on the right side of the screen.
-2. ?????
-3. Profit
+Extract zip folder
+navigate to CoreDefender-Mac via command line and then go to Contents and then MacOS folder. Type chmod 755 Core\ Defender to make that file executable. You can close the command line after this. 
+
+Select CoreDefender-Mac icon in finder and select show package contents. 
+From there you should be able to open the Core Defender app from the finder and the game should play. 
+
+There is likely an easier way to do this, but this is what worked for me to test the game on mac. 
 
 
 
